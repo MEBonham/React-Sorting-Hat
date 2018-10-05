@@ -1,0 +1,14 @@
+
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner ul {
+    list-style: none;
+}
+
+.banner ul li {
+    padding: 0;
+}
